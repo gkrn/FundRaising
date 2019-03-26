@@ -8,3 +8,6 @@ This typed programming languages will help and do the checking at run-time as op
 
 This is a FundRaising Smart Contract.
 It consists of an admin and contributors.
+
+
+RUNNING THE CODE- Go to https://remix.ethereum.org 1.Create a New file. 2.Select the complier version as mentioned in the solidity code. 3.Compile and Run.
